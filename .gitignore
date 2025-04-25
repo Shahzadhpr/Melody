@@ -1,0 +1,17 @@
+# Node modules (in case you use any tools/libraries in the future)
+node_modules/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build/output folders (if you use a bundler later)
+dist/
+build/
+
+# Environment and log files
+.env
+*.log
+
+# Personal IDE/editor settings
+.vscode/
