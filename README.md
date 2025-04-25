@@ -28,13 +28,6 @@ This is a **responsive e-commerce website** for musical instruments built using 
 
 &nbsp;
 
-## 🎥 Live Demo
-
-You can check out the live version of the website here:  
-🔗 [**View Demo website**](https://your-demo-link.com)
-
-&nbsp;
-
 ## 📞 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassanpourshahzad)
